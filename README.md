@@ -4,7 +4,6 @@
 [![R](https://img.shields.io/badge/R-4.3%2B-276DC3?logo=r&logoColor=white)](https://www.r-project.org/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.110%2B-009688?logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
-[![Paper](https://img.shields.io/badge/Nature%20Biomed%20Eng-2025-blue)](https://doi.org/10.1038/s41551-025-01423-7)
 
 A browser-based platform for single-cell RNA-seq analysis, disease trajectory modeling, and computational drug discovery. Five analysis modules are chained into one configurable pipeline — no coding required.
 
@@ -174,14 +173,6 @@ Results are served at `/api/results/<job_id>/<filename>` and rendered in the bro
 | pyro-ppl | ≥ 1.8.6 |
 | R | ≥ 4.3 |
 | Java | ≥ 1.7 (64-bit) |
-
----
-
-## Citation
-
-If you use scBioKit in published research, please cite:
-
-> Zheng, Y., Schupp, J.C., Adams, T. et al. A deep generative model for deciphering cellular dynamics and in silico drug discovery in complex diseases. *Nature Biomedical Engineering* (2025). https://doi.org/10.1038/s41551-025-01423-7
 
 ---
 
